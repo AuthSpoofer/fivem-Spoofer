@@ -96,7 +96,7 @@ https://user-images.githubusercontent.com/94861415/177957302-45c6d2e9-6b7c-4102-
 - Update Free
 - If banned = `REFUND`
 
-A website that I created to introduce myself from start to finish. hope you like it [Serups.me](http://Auth.me/)
+A website that I created to introduce myself from start to finish. hope you like it [Auth.me](http://Auth.me/)
 
 ---
 
