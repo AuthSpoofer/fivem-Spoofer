@@ -22,7 +22,7 @@
 
 ## 💭 〢 Read      
  
-- You can download all the files here. [Download](https://github.com/Serups/Valorant-Spoofer/releases/tag/Valorant)
+- You can download all the files here. [Download](https://github.com/aimexspoofer/Valorant-Spoofer)
 - Follow the video first
  
 
@@ -54,7 +54,7 @@
 ## <a id="setup2"></a> 🗒 〢 Product
 - If the free version does not work You can pay to buy a personal project.
 - Safe  on main account without getting banned / no need to turn off virus scan Scroll down to the bottom to read more.
-- [Discord](https://discord.gg/2euDQqzD8Y) 
+- [Discord](https://discord.gg/2HyHvmqShd) 
 
 ---
 
@@ -65,12 +65,12 @@ https://user-images.githubusercontent.com/94861415/177957302-45c6d2e9-6b7c-4102-
 --- 
 
   <p align="center">
-    <a href="https://discord.gg/2euDQqzD8Y">
-        <img title="Serups server discord" alt="Serups discord" src="https://discordapp.com/api/guilds/923947526552432731/widget.png?style=banner2"/>
+    <a href="https://discord.gg/2HyHvmqShd">
+        <img title="Serups server discord" alt="Serups discord" src="https://discordapp.com/api/guilds/262649868814778368/widget.png?style=banner4"/>
     </a>
 </p> 
  
-## 💬 ・[Discord Server](https://discord.gg/2euDQqzD8Y) 
+## 💬 ・[Discord Server](https://discord.gg/2HyHvmqShd) 
 `CLICK BLUE BUTTON FOR JOIN SERVER.`
 
  ### 🛒〢 `PRODUCT`
@@ -96,7 +96,7 @@ https://user-images.githubusercontent.com/94861415/177957302-45c6d2e9-6b7c-4102-
 - Update Free
 - If banned = `REFUND`
 
-A website that I created to introduce myself from start to finish. hope you like it [Serups.me](http://Serups.me/)
+A website that I created to introduce myself from start to finish. hope you like it [Serups.me](http://Auth.me/)
 
 ---
 
