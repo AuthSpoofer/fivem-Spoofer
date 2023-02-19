@@ -65,7 +65,7 @@ https://user-images.githubusercontent.com/94861415/177957302-45c6d2e9-6b7c-4102-
 
   <p align="center">
     <a href="https://discord.gg/2HyHvmqShd">
-        <img title="Serups server discord" alt="Serups discord" src="https://discordapp.com/api/guilds/879057859512524820/widget.png?style=banner4"/>
+        <img title="Serups server discord" alt="Fivem discord Spoofer" src="https://discordapp.com/api/guilds/879057859512524820/widget.png?style=banner3"/>
     </a>
 </p> 
  
