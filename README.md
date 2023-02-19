@@ -1,5 +1,5 @@
 <h1 align="center">
-  Valorant Spoofer ➰
+  Fivem Spoofer ➰
 </h1>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ## 💭 〢 Read      
  
-- You can download all the files here. [Download](https://github.com/aimexspoofer/Valorant-Spoofer)
+- You can download all the files here. [Download](https://github.com/aimexspoofer/fivem-Spoofer)
 - Follow the video first
  
 
@@ -29,9 +29,9 @@
 ## 🥱 〢 How To Use
 
 - Ordered from left to right to prevent confusion / use at your own risk.
-- **Valorant - Remove HWID** Run it after you have completed all the videos.  
+- **Fivem - Remove HWID** Run it after you have completed all the videos.  
  ```python 
- CLEARNER.BAT >> VALORANT.BAT >> VALORANT.2 >> RESTART PC / ENJOY
+ CLEARNER.BAT >> fivem.BAT >> fivem.2 >> RESTART PC / ENJOY
   ```   
   
 ---
@@ -44,10 +44,10 @@
 
 - Reinstall Windows 
 - Flash Bios (You'll need to Google this step because every motherboard is different)
-- Using Valorant Spoofer Again
+- Using fivem Spoofer Again
 - Reinstall Windows Again
 - Turn off the internet for 10 minutes and turn it on again. to reset the IP
-- Register Account Valorant + Download
+- Register Account fivem + Download
 - Enjoy ! 
 
 ## <a id="setup2"></a> 🗒 〢 Product
@@ -65,11 +65,11 @@ https://user-images.githubusercontent.com/94861415/177957302-45c6d2e9-6b7c-4102-
 
   <p align="center">
     <a href="https://discord.gg/2HyHvmqShd">
-        <img title="Serups server discord" alt="Serups discord" src="https://discordapp.com/api/guilds/262649868814778368/widget.png?style=banner4"/>
+        <img title="Serups server discord" alt="Serups discord" src="https://discordapp.com/api/guilds/879057859512524820/widget.png?style=banner4"/>
     </a>
 </p> 
  
-## 💬 ・[Discord Server](https://discord.gg/2HyHvmqShd) 
+## 💬 ・[Discord Server](https://discord.gg/uBdVrwPcNS) 
 `CLICK BLUE BUTTON FOR JOIN SERVER.`
 
  ### 🛒〢 `PRODUCT`
